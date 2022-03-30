@@ -1,2 +1,6 @@
+<<<<<<< .mine
 bbbbbbbsaaa
+=======
+bbbbbbbsaaa，，，，，，，，，，，，，，
+>>>>>>> .theirs
 22222222222
